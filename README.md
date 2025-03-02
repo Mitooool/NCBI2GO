@@ -21,8 +21,8 @@ Ensure you have the following dependencies installed. If not, use the following 
 Modify the script to specify the correct file paths based on your directory structure. 
 
     Example: 
-    GenBank file path gb_file = "DataCleaning/Aves_RefSeq.gb" 
-    Excel file path excel_file = "DataCleaning/Aves_RefSeq.xlsx" 
+    GenBank file path gb_file = "DataCleaning/Reptilia_RefSeq.gb" 
+    Excel file path excel_file = "DataCleaning/Reptilia_RefSeq.xlsx" 
     Read the normalization dictionary, or use an empty dictionary if unavailable dict_file = "DataCleaning/EmptyDictionary.xlsx"
 
 # 4. Run the Script

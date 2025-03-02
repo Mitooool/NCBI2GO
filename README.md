@@ -10,6 +10,7 @@ Open PyCharm. Go to File > Open, then select the folder containing "NCBI2GO.py" 
 # 2. Install Required Packages
 
 Ensure you have the following dependencies installed. If not, use the following commands to install them: 
+    Example: 
     pip install biopython # Install Bio package
     pip install pandas # Install pandas package
     pip install taxonomy-ranks # Install taxonomy_ranks package
